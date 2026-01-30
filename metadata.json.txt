@@ -1,0 +1,5 @@
+{
+  "name": "LuaForm Obfuscator",
+  "description": "Professional Lua and Luau obfuscation and security analysis suite.",
+  "requestFramePermissions": []
+}
